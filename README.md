@@ -16,10 +16,12 @@ Title- Hyper-Local Event Ticketing Startup
 Team Leader
 Name: Akshara Dixit Phone: 9682729612
 
-Team Members & Roles Name Role 
+Team Members & Roles Name Role -
 1.Name-Anshi Singh    [Role- Frontend Developer]
 2.Name-Jahnvi Katiyar [Role – Backend Developer] 
 3.Sejal Kumari        [Role – AI/ML Engineer]
+
+
 
 
 Project Description-
