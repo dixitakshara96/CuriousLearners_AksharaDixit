@@ -4,18 +4,21 @@ Team Name
 CuriousLearners
 
 Project Name
-[Your Project Name]
+TixArena
 
 Selected Track
-[Track Name – e.g., AI/ML, Web3, Healthcare, Sustainability, etc.]
-
-Selected Problem Statement (PS)
-[Problem Statement ID / Title]
+Track Name – Web Development
+Selected Problem Statement (PS)- Develop a web platform for finding, booking tickets to, and managing attendance at nearby college fests, pop-ups, and community events.
+Problem Statement ID: 
+Title-Hyper-Local Event Ticketing Startup
 
 Team Leader
 Name: Akshara Dixit Phone: 9682729612
 
-Team Members & Roles Name Role [Member 1 Name] [Role – e.g., Frontend Developer] [Member 2 Name] [Role – Backend Developer] [Member 3 Name] [Role – AI/ML Engineer]
+Team Members & Roles Name Role 
+1.Name-Anshi Singh    [Role- Frontend Developer] 
+2.Name-Jahnvi Katiyar [Role – Backend Developer] 
+3.Sejal Kumari        [Role – AI/ML Engineer]
 
 Project Description
 
