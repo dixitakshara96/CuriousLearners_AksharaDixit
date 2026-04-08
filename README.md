@@ -11,7 +11,7 @@ Selected Problem Statement (PS)- Develop a web platform for finding, booking tic
 
 Problem Statement ID:-
 
-Title-Hyper-Local Event Ticketing Startup
+Title- Hyper-Local Event Ticketing Startup
 
 Team Leader
 Name: Akshara Dixit Phone: 9682729612
