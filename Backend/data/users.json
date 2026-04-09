@@ -1,0 +1,31 @@
+[
+  {
+    "id": "397a36d1-9615-4e83-9db6-4646c22da8ce",
+    "name": "Mohit Sharma",
+    "email": "mohit@gmail.com",
+    "passwordHash": "$2a$10$lpPYpF0/c7BASEpB0mHSvuo3AHu0zIWjOlZ.AzcAiPSspvEcodCJS",
+    "avatar": "MS",
+    "college": "BBDu",
+    "location": "Lucknow",
+    "interests": [
+      "tech"
+    ],
+    "createdAt": "2026-04-09T06:15:38.375Z"
+  },
+  {
+    "id": "9448c5f8-1908-4b68-b086-2507c8f01316",
+    "name": "Akshara Dixit",
+    "email": "dixitakshara123@gmail.com",
+    "passwordHash": "$2a$10$pq37lCsaXDAl75mOLEd.LuTMR6rttSDJmIFQMP.SpMEuuhbljN7PG",
+    "avatar": "AD",
+    "college": "IET ",
+    "location": "Lucknow",
+    "interests": [
+      "tech",
+      "music",
+      "college-fest",
+      "sports"
+    ],
+    "createdAt": "2026-04-09T06:40:42.459Z"
+  }
+]
