@@ -9,7 +9,7 @@ Project Name -
 Selected Track Name – Web Development
 Selected Problem Statement (PS)- Develop a web platform for finding, booking tickets to, and managing attendance at nearby college fests, pop-ups, and community events.
 
-Problem Statement ID:-
+Problem Statement ID:-KPT078
 
 Title- Hyper-Local Event Ticketing Startup
 
@@ -18,19 +18,32 @@ Name: Akshara Dixit Phone: 9682729612
 
 Team Members & Roles Name Role -
 
-1.Name-Anshi Singh    [Role- Frontend Developer]
+1.Name-Akshara Dixit   [Role- Frontend Developer]
 
-2.Name-Jahnvi Katiyar [Role – Backend Developer] 
+2.Name-Anshi Singh.    [Role - Github ]
 
-3.Sejal Kumari        [Role – AI/ML Engineer]
+3.Name-Jahnvi Katiyar [Role – Backend Developer] 
+
+4.Sejal Kumari        [Role – AI/ML]
 
 
 Project Description-
 
-[Write your project description here. Use this structure for best impact:]
+- Connects local event organizers with nearby audiences
+- Promotes discovery of small and hidden events
+- Provides a simple, fast, and user-friendly booking experience
+- Offers a unique alternative to platforms like BookMyShow
+- Strengthens local communities and engagement
+- Has strong potential for growth and scalability
+- Future scope includes personalization, expansion, and advanced feature
 
-Problem: Briefly explain the real-world problem you are solving. Solution: Describe your approach and how your project solves it. Key Features: Feature 1 Feature 2 Feature 3 Tech Stack: (e.g., React, Node.js, Python, TensorFlow, MongoDB, etc.) Impact: Explain how your project helps users / society.
+Problem: Hyper-Loacl Event Ticketing Startup Solution: 
+- Connects local event organizers with nearby audiences
+- Promotes discovery of small and hidden events
+- Provides a simple, fast, and user-friendly booking experience
+- Offers a unique alternative to platforms like BookMyShow
+-Key Features: user signup  email verification,user dashboard,QR code entry
+ Impact:Explore Events 
 
-🔗 Additional Links (Optional)
 
-Presentation: [Link]
+Presentation: https://docs.google.com/presentation/d/1WP9jkMElFBJSeEO63N26zIz9IxDkGOILr6iExIH42o0/edit?usp=sharing
